@@ -1,1 +1,2 @@
 Texto do arquivo
+texto adicionado no clone do repositorio teste.
